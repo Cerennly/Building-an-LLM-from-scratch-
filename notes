@@ -1,0 +1,10 @@
+#llm visualization
+#bbycroft.net/llm
+#bir dil modelini sıfırdan oluşturup yayınlamaya kadar 
+#pip install transformers -Uq
+#pip install pytorch
+#pip install tiktokenize
+#pip install datasets // verileri için istediğmizi çağırabilmemiz için
+#pip install matplotlib // görselleştirme için
+#hepsi bir arada //pip install transformers pytorch tiktokenize datasets matplotlib -Uq //
+
